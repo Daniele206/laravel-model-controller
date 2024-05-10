@@ -1,3 +1,5 @@
 <footer>
-    <h1>Footer</h1>
+    <div class="bg-primary text-center fs-1 fw-bold text-light">
+        <div class="py-4">footer</div>
+    </div>
 </footer>
